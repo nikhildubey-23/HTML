@@ -1,4 +1,4 @@
-For to learn html language i use vscode as a text editor and live server extension to run my web site which is use to lost on my local server.
+For to learn html language i use vscode as a text editor and live server extension to run my web site which is use to host on my local server.
 
 so motivate your self and start working on html .
 
